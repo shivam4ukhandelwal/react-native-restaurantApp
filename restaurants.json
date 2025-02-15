@@ -1,0 +1,161 @@
+{
+    "restaurants": [
+      {
+        "id": "1",
+        "name": "La Petite Maison",
+        "description": "French Mediterranean cuisine in a chic setting.",
+        "image": "https://picsum.photos/300/200?random=1",
+        "rating": 4.8,
+        "deliveryTime": "30 mins",
+        "discount": "10",
+        "menu": [
+          {
+            "id": "1",
+            "name": "Grilled Sea Bass",
+            "description": "Fresh sea bass with herbs and lemon butter.",
+            "image": "https://picsum.photos/300/200?random=2",
+            "price": 120
+          },
+          {
+            "id": "2",
+            "name": "Beef Tartare",
+            "description": "Finely chopped beef with capers and onions.",
+            "image": "https://picsum.photos/300/200?random=3",
+            "price": 90
+          },
+          {
+            "id": "3",
+            "name": "Truffle Pasta",
+            "description": "Pasta with truffle cream sauce.",
+            "image": "https://picsum.photos/300/200?random=4",
+            "price": 85
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Zuma",
+        "description": "Contemporary Japanese dishes in a stylish ambiance.",
+        "image": "https://picsum.photos/300/200?random=5",
+        "rating": 4.7,
+        "deliveryTime": "35 mins",
+        "discount": "20",
+        "menu": [
+          {
+            "id": "1",
+            "name": "Sushi Platter",
+            "description": "Assorted sushi with fresh fish.",
+            "image": "https://picsum.photos/300/200?random=6",
+            "price": 150
+          },
+          {
+            "id": "2",
+            "name": "Black Cod Miso",
+            "description": "Grilled cod marinated in miso sauce.",
+            "image": "https://picsum.photos/300/200?random=7",
+            "price": 130
+          },
+          {
+            "id": "3",
+            "name": "Tempura Udon",
+            "description": "Udon noodles with tempura prawns.",
+            "image": "https://picsum.photos/300/200?random=8",
+            "price": 70
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Nobu",
+        "description": "World-renowned Japanese-Peruvian fusion cuisine.",
+        "image": "https://picsum.photos/300/200?random=9",
+        "rating": 4.6,
+        "deliveryTime": "40 mins",
+        "menu": [
+          {
+            "id": "1",
+            "name": "Yellowtail Sashimi",
+            "description": "Sashimi with jalapeño and yuzu sauce.",
+            "image": "https://picsum.photos/300/200?random=10",
+            "price": 110
+          },
+          {
+            "id": "2",
+            "name": "Rock Shrimp Tempura",
+            "description": "Crispy tempura shrimp with creamy sauce.",
+            "image": "https://picsum.photos/300/200?random=11",
+            "price": 95
+          },
+          {
+            "id": "3",
+            "name": "Miso Soup",
+            "description": "Traditional Japanese miso soup.",
+            "image": "https://picsum.photos/300/200?random=12",
+            "price": 25
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Pierchic",
+        "description": "Seafood restaurant with stunning views of the Arabian Gulf.",
+        "image": "https://picsum.photos/300/200?random=13",
+        "rating": 4.9,
+        "deliveryTime": "45 mins",
+        "menu": [
+          {
+            "id": "1",
+            "name": "Lobster Thermidor",
+            "description": "Lobster cooked in a creamy sauce.",
+            "image": "https://picsum.photos/300/200?random=14",
+            "price": 200
+          },
+          {
+            "id": "2",
+            "name": "Grilled Prawns",
+            "description": "Jumbo prawns grilled to perfection.",
+            "image": "https://picsum.photos/300/200?random=15",
+            "price": 150
+          },
+          {
+            "id": "3",
+            "name": "Seafood Platter",
+            "description": "Assorted seafood with dipping sauces.",
+            "image": "https://picsum.photos/300/200?random=16",
+            "price": 180
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Al Hadheerah",
+        "description": "Traditional Arabic cuisine in a desert setting.",
+        "image": "https://picsum.photos/300/200?random=17",
+        "rating": 4.5,
+        "deliveryTime": "50 mins",
+        "menu": [
+          {
+            "id": "1",
+            "name": "Mixed Grill",
+            "description": "Grilled lamb, chicken, and beef.",
+            "image": "https://picsum.photos/300/200?random=18",
+            "price": 100
+          },
+          {
+            "id": "2",
+            "name": "Hummus with Lamb",
+            "description": "Creamy hummus topped with lamb.",
+            "image": "https://picsum.photos/300/200?random=19",
+            "price": 60
+          },
+          {
+            "id": "3",
+            "name": "Arabic Mezze Platter",
+            "description": "Assorted Arabic appetizers.",
+            "image": "https://picsum.photos/300/200?random=20",
+            "price": 80
+          }
+        ]
+      }
+    ]
+  }
