@@ -1,6 +1,7 @@
 # Noon Assigment react-native-restaurantApp
 
-react-native-restaurantApp is a React Native TypeScript e-commerce application for restaurants. This app allows users to browse menus, place orders, and make payments. 
+This project is a React Native Food Ordering App, developed as part of the React Native Developer Assignment. The application provides a seamless and engaging experience for users to browse restaurants, search for menu items, and place orders efficiently.
+
 
 ## Table of Contents
 
@@ -9,6 +10,7 @@ react-native-restaurantApp is a React Native TypeScript e-commerce application f
 - [Folder Structure](#folder-structure)
 - [Development Guidelines](#development-guidelines)
 - [Testing Guidelines](#testing-guidelines)
+- [## 🔀 Navigation Flow](#-navigation-flow)
 - [Libraries](#libraries)
 - [Supported Devices & OS](#-supported-devices--os)
 - [Configuration](#configuration)
@@ -30,6 +32,19 @@ react-native-restaurantApp is a React Native TypeScript e-commerce application f
 - Confirmation screen
 
 ## Demonstration
+
+#### Home Screen  
+![Home](demo/home.gif)
+
+#### Voice Search  
+![Search](demo/voice-search.gif)
+
+#### Outlet Detail Page with add to cart Button  
+![Outlet Detail](demo/outlet-detail.gif)
+
+#### Payment Flow
+![Payment Flow](demo/payment-flow.gif)
+
 
 ### iPhone
 [![iPhone Demo](demo/iphone.mp4)](demo/iphone.mp4)
