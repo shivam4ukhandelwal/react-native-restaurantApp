@@ -1,4 +1,4 @@
-# Noon Assigment react-native-restaurantApp
+# react-native-restaurantApp
 
 This project is a React Native Food Ordering App, developed as part of the React Native Developer Assignment. The application provides a seamless and engaging experience for users to browse restaurants, search for menu items, and place orders efficiently.
 
@@ -56,7 +56,7 @@ This project is a React Native Food Ordering App, developed as part of the React
 ## Folder Structure
 
 ```
-    NoonDemo
+    RestaurantDemo
 ├── android
 ├── ios
 ├── src

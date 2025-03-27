@@ -1,23 +1,20 @@
 {
   "extends": "@react-native/typescript-config/tsconfig.json",
-  "types": ["node"],
-  "compilerOptions" : {
-    "baseUrl": "./src/*",
+  "compilerOptions": {
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["./src/*"],
-      "@components": ["./src/components/*"],
-      "@screens": ["./src/screens/*"],
-      "@assets": ["./src/assets/*"],
-      "@utils": ["./src/utils/*"],
-      "@hooks": ["./src/hooks/*"],
-      "@store": ["./src/store/*"],
-      "@types": ["./src/types/*"],
-      "@services": ["./src/services/*"],
-      "@routes" : ["./src/routes/*"],
-      "@themes": ["./src/themes/*"]
+      "@/*": ["*"],
+      "@components/*": ["components/*"],
+      "@screens/*": ["screens/*"],
+      "@assets/*": ["assets/*"],
+      "@utils/*": ["utils/*"],
+      "@hooks/*": ["hooks/*"],
+      "@store/*": ["store/*"],
+      "@types/*": ["types/*"],
+      "@services/*": ["services/*"],
+      "@routes/*": ["routes/*"],
+      "@themes/*": ["themes/*"]
     }
   },
-  "include": [
-    "src/**/*"
-  ]
+  "include": ["src"]
 }
